@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm JellyTony</h1>
 <h3 align="center">A post-90s obsessed with coding!</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=09BD28&center=true&vCenter=true&lines=A+post-90s+obsessed+with+coding!)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **go-zero、go-micro、CloudWeGo**
 
 - 👨‍💻 All of my projects are available at [github](github)
