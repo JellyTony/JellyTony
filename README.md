@@ -85,22 +85,6 @@
 <td valign="top">  
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤**
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
-
-📅 **I'm Most Productive on Mondays**
-
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
-
-
-💖 **My languages Python**
-
-<!--START_SECTION_LANGUAGE:readme-info-->
-<!--END_SECTION_LANGUAGE:readme-info-->
-
 <!--END_SECTION:waka-->
 </td>
 </tr>
