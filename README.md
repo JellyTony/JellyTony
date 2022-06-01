@@ -31,10 +31,14 @@ hi, i'm [JellyTony](https://www.zhanggaoyuan.com/), after 95 years, I am a young
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/JellyTony/JellyTony/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/JellyTony/JellyTony/raw/main/assets/code.gif?raw=true" width="500" height="320" />
+
+
 
 - 💼 any freelance work? do reach, [email](mailto:1402992668@qq.com) :)
 - 💬 ask me about anything, i am happy to help;
+
+<br />
 
 **languages and tools:**
 
@@ -47,6 +51,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 
 💪 正在学习:
