@@ -22,11 +22,30 @@
 </div>
 
 
+<br />
+
 #  🙋 Hello
 
-<p>✍️&nbsp;&nbsp;大家好，我是张高元，95后水瓶座座普通男青年！现居北京，从事于后端开发!</p>
-<p>&emsp;&emsp;毕业后来到北京开始做的`PHP`，后来因为认识朋友介绍学`Golang`就一发不可收拾，直至现在一直专研于后端各种技术栈，当然前端也没落下，</p>
-<p>&emsp;&emsp;俗话说："活到老学到老。"喜欢敲代码的感觉，相信编程是一门艺术, 自诩为游弋在代码里的人生!</p>
+hi, i'm [JellyTony](https://www.zhanggaoyuan.com/), after 95 years, I am a young man in Aquarius, living in Beijing, China; engaged in back-end development. After graduation, I came to Beijing and started to do `PHP` development, then I learned `Golang` from a friend, until now I have been specializing in various technology stacks in the backend, of course, the frontend is not left behind, as the saying goes: "Live to learn. "I like the feeling of knocking code, believe that programming is an art, self-proclaimed as swimming in the code of life.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/JellyTony/JellyTony/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+
+- 💼 any freelance work? do reach, [email](mailto:1402992668@qq.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 💪 正在学习:
 
@@ -80,12 +99,9 @@
 # 🚀 Actions
 
 <!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
 
 <!--START_SECTION:waka-->
+```text
+No activity tracked
+```
 <!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
