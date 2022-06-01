@@ -52,7 +52,6 @@
 &emsp;&emsp;
 ![Mac](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/mac.svg)
 ![Google Chrome](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/chrome.svg)
-![Bash](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg)
 ![Goland](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_goland.svg)
 ![Phpstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_phpstorm.svg)
 ![Webstorm](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/jetbrains_webstorm.svg)
@@ -62,7 +61,6 @@
 💬 社交与爱好:
 
 &emsp;&emsp;
-![Gitter](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/gitter.svg)
 ![Reddit](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg)
 ![Stackoverflow](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/stackoverflow.svg)
 ![Telegram](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg)
