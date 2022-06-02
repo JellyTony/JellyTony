@@ -112,10 +112,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 # 🚀 Actions
 
-<!-- wakatime 统计 -->
-
 <!--START_SECTION:waka-->
-```text
-No activity tracked
-```
 <!--END_SECTION:waka-->
