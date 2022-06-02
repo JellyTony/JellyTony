@@ -57,7 +57,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br />
 <br />
 
-💪 正在学习:
+💪 I am learning:
 
 &emsp;&emsp;
 ![GO](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg)
@@ -69,14 +69,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![Laravel](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/laravel.svg)
 
 
-🧠 计划学习:
+🧠 Planned learning:
 
 &emsp;&emsp;
 ![Rust](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/rust.svg)
 ![K8s](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/kubernetes.svg)
 ![Flutter](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/flutter.svg)
 
-🧰 常用的工具:
+🧰 Common tools:
 
 &emsp;&emsp;
 ![Mac](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/devices/mac.svg)
@@ -87,7 +87,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![VsCode](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg)
 
 
-💬 社交与爱好:
+💬 Social and hobbies:
 
 &emsp;&emsp;
 ![Reddit](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/reddit.svg)
