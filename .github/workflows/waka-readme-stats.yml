@@ -2,7 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # 国际标准时间下午 16 点，北京时间晚上 0 点
+    - cron: '0 16 * * *'
+    
   workflow_dispatch:
 jobs:
   update-readme:
@@ -20,4 +22,3 @@ jobs:
           SHOW_SHORT_INFO : "True"
           SHOW_PROJECTS : "True"
           SHOW_TOTAL_CODE_TIME : "True"
-          SHOW_TITLE : true
