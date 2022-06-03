@@ -2,10 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # 国际标准时间下午 16 点，北京时间晚上 0 点
-    - cron: '0 16 * * *'
-    
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
