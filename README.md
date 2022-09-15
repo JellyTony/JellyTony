@@ -109,7 +109,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -117,7 +117,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 🏆 166 Contributions in the Year 2022
+> 🏆 167 Contributions in the Year 2022
  > 
 > 📦 6.0 kB Used in GitHub's Storage 
  > 
@@ -127,49 +127,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    99 commits     ██████████████████████░░░   88.39% 
-🌆 Daytime    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.61% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Thursday     22 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64% 
-Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Saturday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Sunday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       13 hrs 32 mins      ████████████████████░░░░░   80.94% 
-Docker                   1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.36% 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08% 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79%
-
-🔥 Editors: 
-GoLand                   16 hrs 43 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      16 hrs 43 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -179,5 +136,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 14/09/2022 01:04:52 UTC
+ Last Updated on 15/09/2022 01:10:34 UTC
 <!--END_SECTION:waka-->
