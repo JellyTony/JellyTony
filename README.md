@@ -111,15 +111,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-557%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 190 Contributions in the Year 2022
+> 🏆 191 Contributions in the Year 2022
  > 
-> 📦 7.8 kB Used in GitHub's Storage 
+> 📦 7.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -142,9 +142,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Monday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
 Tuesday      14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
 Wednesday    16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-Thursday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
+Thursday     20 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.45% 
-Saturday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
 Sunday       14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
 
 ```
@@ -156,13 +156,17 @@ Sunday       14 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       4 hrs 31 mins       ███████████████████████░░   95.23% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
+Log                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   4 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -175,5 +179,5 @@ Go                       1 repo              ███████████�
 
 
 
- Last Updated on 08/10/2022 01:04:21 UTC
+ Last Updated on 09/10/2022 01:09:36 UTC
 <!--END_SECTION:waka-->
