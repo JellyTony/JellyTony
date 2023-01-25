@@ -111,15 +111,15 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 20 Contributions in the Year 2023
+> 🏆 21 Contributions in the Year 2023
  > 
-> 📦 19.6 kB Used in GitHub's Storage 
+> 📦 19.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,13 +136,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
-Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
+Tuesday      16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
 Wednesday    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-Thursday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
+Thursday     20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
 Friday       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
 Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
 Sunday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22%
@@ -175,5 +175,5 @@ Go                       4 repos             ███████████�
 
 
 
- Last Updated on 24/01/2023 00:53:09 UTC
+ Last Updated on 25/01/2023 00:49:16 UTC
 <!--END_SECTION:waka-->
