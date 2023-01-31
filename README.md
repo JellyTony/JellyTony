@@ -117,9 +117,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2023
+> 🏆 27 Contributions in the Year 2023
  > 
-> 📦 20.3 kB Used in GitHub's Storage 
+> 📦 20.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -139,9 +139,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
+Monday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
 Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-Wednesday    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
+Wednesday    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
 Thursday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
 Friday       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
 Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
@@ -156,13 +156,15 @@ Sunday       16 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       31 mins             ████████████████████████░   99.32% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68% 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -175,5 +177,5 @@ Go                       4 repos             ███████████�
 
 
 
- Last Updated on 30/01/2023 00:45:46 UTC
+ Last Updated on 31/01/2023 00:54:05 UTC
 <!--END_SECTION:waka-->
