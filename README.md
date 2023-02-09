@@ -109,17 +109,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 35 Contributions in the Year 2023
+> 🏆 36 Contributions in the Year 2023
  > 
-> 📦 21.4 kB Used in GitHub's Storage 
+> 📦 21.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -136,14 +136,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 🌙 Night          1 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday          16 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 Tuesday         16 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Wednesday       17 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday       18 commits       ███░░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 Thursday        20 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday          21 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Friday          20 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
 Saturday        15 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
 Sunday          16 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 
@@ -156,11 +156,11 @@ Sunday          16 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       7 hrs 31 mins       █████████████████░░░░░░░░   68.19 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Go                       7 hrs 26 mins       ████████████████░░░░░░░░░   67.38 % 
+JSON                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 PlantUML file            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
 GoLand                   11 hrs 2 mins       █████████████████████████   100.00 % 
@@ -179,5 +179,5 @@ Go                       4 repos             ███████████�
 
 
 
- Last Updated on 08/02/2023 00:51:33 UTC
+ Last Updated on 09/02/2023 00:50:20 UTC
 <!--END_SECTION:waka-->
