@@ -166,13 +166,12 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       17 repos            ██████████████████████░░░   89.47 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Go                       17 repos            ████████████████████████░   94.44 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 05/08/2023 00:46:34 UTC
+ Last Updated on 06/08/2023 00:44:14 UTC
 <!--END_SECTION:waka-->
