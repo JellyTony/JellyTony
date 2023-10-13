@@ -9,12 +9,12 @@
 <div align="center">
   <a href="https://www.zhanggaoyuan.com/"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://space.bilibili.com/327702008"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <img src="https://visitor-badge.glitch.me/badge?page_id=JellyTony" alt="访客统计" />
+  <img src="https://komarev.com/ghpvc/?username=JellyTony&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/JellyTony/JellyTony/main/assets/github-contribution-grid-snake.svg" />
+   <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
 
