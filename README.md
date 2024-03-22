@@ -111,7 +111,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-196.5%20thousand%20lines%20of%20code-blue)
 
@@ -176,5 +176,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2024 00:42:50 UTC
+ Last Updated on 22/03/2024 00:41:22 UTC
 <!--END_SECTION:waka-->
