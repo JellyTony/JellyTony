@@ -109,7 +109,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -117,7 +117,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 📦 63.7 kB Used in GitHub's Storage 
+> 📦 63.8 kB Used in GitHub's Storage 
  > 
 > 🏆 35 Contributions in the Year 2024
  > 
@@ -154,16 +154,17 @@ Sunday                   200 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 27 mins       █████████████████████████   99.72 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Go                       7 hrs 46 mins       ████████████████████████░   97.17 % 
+Log                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+go.mod                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-GoLand                   6 hrs 28 mins       █████████████████████████   100.00 % 
+GoLand                   7 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -179,5 +180,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2024 00:45:45 UTC
+ Last Updated on 01/05/2024 00:50:08 UTC
 <!--END_SECTION:waka-->
