@@ -109,7 +109,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C023%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -119,7 +119,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 > 📦 63.9 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -154,16 +154,16 @@ Sunday                   127 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 47 mins       ████████████████████████░   97.72 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Log                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-go.mod                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Go                       3 hrs 25 mins       ████████████████████████░   96.85 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Log                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+go.mod                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 53 mins       █████████████████████████   100.00 % 
+GoLand                   3 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -179,5 +179,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2024 00:47:20 UTC
+ Last Updated on 19/05/2024 00:52:07 UTC
 <!--END_SECTION:waka-->
