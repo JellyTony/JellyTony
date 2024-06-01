@@ -117,7 +117,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 📦 64.0 kB Used in GitHub's Storage 
+> 📦 64.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -174,5 +176,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 00:49:43 UTC
+ Last Updated on 01/06/2024 00:52:14 UTC
 <!--END_SECTION:waka-->
