@@ -109,7 +109,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -118,8 +118,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **🐱 My GitHub Data** 
 
 > 📦 64.1 kB Used in GitHub's Storage 
- > 
-> 🏆 40 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -180,5 +178,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2024 00:52:48 UTC
+ Last Updated on 03/06/2024 00:50:06 UTC
 <!--END_SECTION:waka-->
