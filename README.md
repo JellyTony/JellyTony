@@ -117,7 +117,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 📦 64.3 kB Used in GitHub's Storage 
+> 📦 64.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,13 +154,13 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -174,5 +176,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2024 00:51:47 UTC
+ Last Updated on 25/06/2024 00:50:13 UTC
 <!--END_SECTION:waka-->
