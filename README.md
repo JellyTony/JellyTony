@@ -119,6 +119,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 > 📦 64.5 kB Used in GitHub's Storage 
  > 
+> 🏆 42 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -152,13 +154,16 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       10 mins             ███████████████████████░░   90.99 % 
+Makefile                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -174,5 +179,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2024 00:50:18 UTC
+ Last Updated on 05/07/2024 00:49:41 UTC
 <!--END_SECTION:waka-->
