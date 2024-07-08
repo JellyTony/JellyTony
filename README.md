@@ -109,15 +109,17 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 64.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -152,17 +154,17 @@ Sunday                   119 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       48 mins             ████████████████████████░   97.29 % 
-Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Go                       48 mins             ████████████████████████░   97.04 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-GoLand                   49 mins             █████████████████████████   100.00 % 
+GoLand                   50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      49 mins             █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -178,5 +180,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2024 00:55:48 UTC
+ Last Updated on 08/07/2024 00:52:22 UTC
 <!--END_SECTION:waka-->
