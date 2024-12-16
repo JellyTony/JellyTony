@@ -119,8 +119,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 > 📦 66.4 kB Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -176,5 +174,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 01:10:03 UTC
+ Last Updated on 16/12/2024 01:07:44 UTC
 <!--END_SECTION:waka-->
