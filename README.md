@@ -119,8 +119,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 > 📦 73.4 kB Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -176,5 +174,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2025 01:11:30 UTC
+ Last Updated on 21/04/2025 01:09:47 UTC
 <!--END_SECTION:waka-->
