@@ -117,9 +117,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 📦 175.5 kB Used in GitHub's Storage 
+> 📦 175.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 365 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -176,5 +176,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2025 01:17:04 UTC
+ Last Updated on 19/08/2025 01:10:38 UTC
 <!--END_SECTION:waka-->
