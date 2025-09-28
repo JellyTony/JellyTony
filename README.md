@@ -109,8 +109,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 # 🚀 Actions
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2025%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
@@ -127,42 +125,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                549 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-🌆 Daytime                340 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌃 Evening                538 commits         ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌙 Night                  676 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Tuesday                  272 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Wednesday                291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Thursday                 353 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Friday                   268 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Saturday                 233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Sunday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -176,5 +138,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:02:14 UTC
+ Last Updated on 28/09/2025 01:10:44 UTC
 <!--END_SECTION:waka-->
