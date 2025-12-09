@@ -111,13 +111,13 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 378.5 kB Used in GitHub's Storage 
+> 📦 400.6 kB Used in GitHub's Storage 
  > 
 > 🏆 526 Contributions in the Year 2025
  > 
@@ -176,5 +176,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2025 01:07:39 UTC
+ Last Updated on 09/12/2025 01:07:35 UTC
 <!--END_SECTION:waka-->
