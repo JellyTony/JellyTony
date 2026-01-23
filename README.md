@@ -111,7 +111,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C051%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604.43%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -166,15 +166,15 @@ No Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       15 repos            █████████████████░░░░░░░░   68.18 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Go                       14 repos            █████████████████░░░░░░░░   66.67 % 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PHP                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 22/01/2026 01:13:54 UTC
+ Last Updated on 23/01/2026 01:12:41 UTC
 <!--END_SECTION:waka-->
