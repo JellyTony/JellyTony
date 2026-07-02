@@ -117,7 +117,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **🐱 My GitHub Data** 
 
-> 📦 921.7 kB Used in GitHub's Storage 
+> 📦 1.1 MB Used in GitHub's Storage 
  > 
 > 🏆 61 Contributions in the Year 2026
  > 
@@ -168,13 +168,13 @@ No Activity Tracked This Week
 ```text
 Go                       18 repos            ███████████████░░░░░░░░░░   60.00 % 
 TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 01/07/2026 02:55:30 UTC
+ Last Updated on 02/07/2026 02:45:21 UTC
 <!--END_SECTION:waka-->
